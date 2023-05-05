@@ -3,4 +3,4 @@
 ```
 Below is a sample display of what we obtained from running the code
  ```
-![alt text]https://github.com/panmoyves/Bitcoin_price/blob/main/newplot.png)
+![alt text](https://github.com/panmoyves/Bitcoin_price/blob/main/newplot.png)
